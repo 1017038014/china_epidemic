@@ -1,0 +1,11 @@
+echarts-countries-pypkg
+echarts-china-provinces-pypkg
+echarts-china-cities-pypkg
+echarts-china-counties-pypkg
+echarts-china-misc-pypkg
+echarts-united-kingdom-pypkg
+
+pyecharts==0.5.11
+pyecharts-javascripthon==0.0.6
+pyecharts-jupyter-installer==0.0.3
+pyecharts-snapshot==0.2.0
